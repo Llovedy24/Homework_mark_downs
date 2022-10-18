@@ -5,4 +5,4 @@
 # What are the Primary HTTP Verbs and what do they mean?
 ### In HTTP’s terms, verbs are called “request methods”, and they determine how the server should respond to a particular request. They mean that, if a URL defines a resource (a blog post, for example, or an image), different actions can be performed on that resource without needing to create different URLs or pass different types of request data.
 
-"# Written_Homework" 
+
